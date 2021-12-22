@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pdomi06
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 You can reach me on email: pdomi06@gmail.com
+- 📫 You can reach me on my email: pdomi06@gmail.com
 
 <!---
 pdomi06/pdomi06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
