@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @pdomi06
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 You can reach me on my email: pdomi06@gmail.com
+# Personal README
 
-<!---
-pdomi06/pdomi06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a personal README file for Patkós Dominik, a software engineering student who is currently working on a Discord bot project and learning JavaScript. Patkós is already proficient in HTML, CSS, and Bootstrap.
+
+## Introduction
+
+Hi, I'm Patkós Dominik, a software engineering student who is passionate about coding and developing new software. I'm currently working on a Discord bot project to improve my skills in JavaScript. I'm also proficient in HTML, CSS, and Bootstrap.
+
+## Skills
+
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+## Projects
+
+### Discord Bot
+
+I'm currently working on a Discord bot project to improve my skills in JavaScript. The bot is designed to perform various tasks and commands within a Discord server.
+
+## Contact
+
+If you have any questions or would like to get in touch with me, feel free to reach out via email at [pdomi06@gmail.com].
