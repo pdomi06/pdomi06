@@ -8,6 +8,12 @@ Hi, I'm Dominik, a software engineering student who is passionate about coding a
 - HTML
 - CSS
 - Bootstrap
+- React.js
+- Node.js
+- Python
+- C#
+- MongoDB
+- MySQL
 
 ## Projects 🛠️
 
