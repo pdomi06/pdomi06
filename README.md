@@ -1,6 +1,6 @@
 # Introduction 👋
 
-Hi, I'm Dominik, a software engineering student who is passionate about coding and developing new software. I'm currently working on a Discord bot project to improve my skills in JavaScript. I'm also proficient in HTML, CSS, and Bootstrap.
+Hi, I'm Dominik, a software engineering student who is passionate about coding and developing new software. I'm currently working on a Discord bot project to improve my skills in JavaScript, React. I'm also proficient in HTML, CSS, Python and C#.
 
 ## Skills 🚀
 
