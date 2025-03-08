@@ -12,6 +12,7 @@ Hi, I'm [Dominik]([https://pdomi06.me/), a software engineering student who is p
 - Node.js
 - Python
 - C#
+- SQL
 - MongoDB
 - MySQL
 
