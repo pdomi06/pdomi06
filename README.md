@@ -10,8 +10,13 @@ Hi, I'm [Dominik]([https://pdomi06.me/), a software engineering student who is p
 - Bootstrap
 - React.js
 - Node.js
+- Ajax, XHR
+- PhP
+- Laravel
 - Python
 - C#
+- WinForm
+- .NET Maui
 - SQL
 - MongoDB
 - MySQL
