@@ -20,7 +20,7 @@ Hi, I'm [Dominik]([https://pdomi06.me/), a software engineering student who is p
 ## Projects 🛠️
 ### ReTicket 🎟️
 A ticket resale marketplace platform built with PHP and Laravel, allowing users to buy and sell tickets to events securely.
-### Sema 🎵 (Finished)
+### Sema 🎵
 A Discord bot featuring system logging and music playback from YouTube, Spotify, and SoundCloud. This was my first ever project.
 ## Contact 📞
 If you have any questions or would like to get in touch with me, feel free to reach out via email at [pdomi06@gmail.com](mailto:pdomi06@gmail.com).
